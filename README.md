@@ -1,6 +1,6 @@
 <!-- ───────────────  HERO  ─────────────── -->
 <p align="center">
-  <!-- 1920×400 GIF / PNG banner -->
+  <!-- 1920×400 GIF / PNG banner (swap with your own) -->
   <img src="https://raw.githubusercontent.com/omshinde2627/omshinde2627/main/assets/hero.gif"
        alt="Om Shinde — AI Developer · Creative Builder" width="100%">
 </p>
@@ -42,13 +42,13 @@
 - 🤖 **AI-powered micro-products** for creators & local businesses  
 - 🚀 SEO playbooks that leapfrog sites from page 5 ➜ page 1  
 - 🏥 Hackathon MVPs like **MedVision** built in 48 h  
-- 🛠  Shipping bugs at night, refactoring in the morning
+- 🛠  Shipping bugs at night, refactoring in the morning  
 
 </details>
 
-<!-- ───────────────  TOOLBOX  ─────────────── -->
+<!-- ───────────────  TECH TOOLBOX  ─────────────── -->
 <details>
-<summary><h2>🛠 Tech Toolbox</h2></summary>
+<summary><h2>🛠 Tech Toolbox (core stack)</h2></summary>
 
 <p align="center">
   <!-- Languages -->
@@ -80,6 +80,7 @@
 
 </details>
 
+💻 Tech Stack: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <!-- ───────────────  PROJECTS  ─────────────── -->
 <details>
 <summary><h2>🏆 Featured Projects</h2></summary>
@@ -92,30 +93,14 @@
 
 </details>
 
-<!-- ───────────────  TECH + DESIGN SKILLS  ─────────────── -->
-<details>
-<summary><h2>🧩 Full Skill Map</h2></summary>
-
-<!-- skillicons.dev auto-generates a crisp SVG grid                            -->
-<!-- Edit the list or change perline=⟦n⟧ to tweak layout                       -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,cpp,r,html,css,tailwind,react,nextjs,nodejs,express,postgres,mongodb,supabase,docker,vercel,aws,gcp,openai,figma,canva,git,github&perline=9"
-       alt="Skill Icons" />
-</p>
-
-</details>
-
 <!-- ───────────────  TROPHIES & STATS  ─────────────── -->
 <h2 align="center">📊 Weekly Pulse</h2>
 
 <p align="center">
-  <!-- Trophy wall -->
   <img src="https://github-profile-trophy.vercel.app/?username=omshinde2627&theme=onestar&column=7&margin-w=5&no-frame=true"/>
   <br><br>
-  <!-- Activity graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=omshinde2627&theme=react-dark&hide_border=true&area=true&radius=4"/>
   <br><br>
-  <!-- Basic stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=omshinde2627&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%"/>
   <img src="https://streak-stats.demolab.com?user=omshinde2627&theme=tokyonight&hide_border=true"                                            width="49%"/>
   <br>
